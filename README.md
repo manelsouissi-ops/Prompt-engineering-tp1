@@ -98,11 +98,19 @@ Le modèle Groq initialement essayé a renvoyé une erreur HTTP 404. L'implémen
 
 ## Compte rendu
 
-Le compte rendu Word demandé (`compte_rendu/Compte_Rendu_TP1_LLM_Aziz_Sabri.docx`) n'était pas présent dans le dossier du projet ni trouvé ailleurs sur le Bureau au moment de la préparation. Il n'est donc pas inclus dans ce dépôt.
+Le compte rendu officiel du TP est disponible au format Word : [Compte_Rendu_TP1_LLM_Manel_Souissi.docx](compte_rendu/Compte_Rendu_TP1_LLM_Manel_Souissi.docx).
 
 ## Captures d'écran
 
-Les captures `A6_Comparaison_1.png` et `A6_Comparaison_2.png` n'étaient pas présentes dans le dossier du projet ni trouvées ailleurs sur le Bureau. Aucune capture ni preuve expérimentale n'a été créée artificiellement.
+Les captures ci-dessous présentent les résultats de la comparaison A6.
+
+### Comparaison A6 — capture 1
+
+![Capture d'écran A6 — comparaison des modèles, partie 1](screenshots/A6_Comparaison_1.png)
+
+### Comparaison A6 — capture 2
+
+![Capture d'écran A6 — comparaison des modèles, partie 2](screenshots/A6_Comparaison_2.png)
 
 ## Conclusion
 
