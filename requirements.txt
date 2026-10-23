@@ -1,0 +1,4 @@
+requests
+ollama
+groq
+python-dotenv
